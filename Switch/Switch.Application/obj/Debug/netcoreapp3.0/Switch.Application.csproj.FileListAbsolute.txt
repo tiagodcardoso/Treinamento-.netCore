@@ -1,0 +1,8 @@
+C:\Labs\CursoEntity\Switch\Switch.Application\bin\Debug\netcoreapp3.0\Switch.Application.deps.json
+C:\Labs\CursoEntity\Switch\Switch.Application\bin\Debug\netcoreapp3.0\Switch.Application.dll
+C:\Labs\CursoEntity\Switch\Switch.Application\bin\Debug\netcoreapp3.0\Switch.Application.pdb
+C:\Labs\CursoEntity\Switch\Switch.Application\obj\Debug\netcoreapp3.0\Switch.Application.csprojAssemblyReference.cache
+C:\Labs\CursoEntity\Switch\Switch.Application\obj\Debug\netcoreapp3.0\Switch.Application.AssemblyInfoInputs.cache
+C:\Labs\CursoEntity\Switch\Switch.Application\obj\Debug\netcoreapp3.0\Switch.Application.AssemblyInfo.cs
+C:\Labs\CursoEntity\Switch\Switch.Application\obj\Debug\netcoreapp3.0\Switch.Application.dll
+C:\Labs\CursoEntity\Switch\Switch.Application\obj\Debug\netcoreapp3.0\Switch.Application.pdb
