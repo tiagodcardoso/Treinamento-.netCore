@@ -1,8 +1,0 @@
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp3.0\Switch.Domain.Tests.deps.json
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp3.0\Switch.Domain.Tests.dll
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\bin\Debug\netcoreapp3.0\Switch.Domain.Tests.pdb
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp3.0\Switch.Domain.Tests.csprojAssemblyReference.cache
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp3.0\Switch.Domain.Tests.AssemblyInfoInputs.cache
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp3.0\Switch.Domain.Tests.AssemblyInfo.cs
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp3.0\Switch.Domain.Tests.dll
-C:\Labs\CursoEntity\Switch\Switch.Domain.Tests\obj\Debug\netcoreapp3.0\Switch.Domain.Tests.pdb
